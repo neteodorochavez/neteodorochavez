@@ -7,6 +7,7 @@
 
 
 ## Current Projects 
+**Image Segmentation using 3D UNet Architecture**
 
 ## Past Projects 
 **Recommendation Engine** 
