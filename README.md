@@ -9,6 +9,17 @@
 ## Current Projects 
 
 ## Past Projects 
+**Recommendation Engine** 
+
+**Twitter Sentiment Analysis** 
+
+**Search Engine Implementation** 
+
+**Bag-Of-Words Document Processing with TFIDF** 
+
+**KMeans++ Clustering for California Housing Dataset** 
+
+**Modeling: Linear Regression, Decision Trees, Random Forests, Naive Bayes**
 
 <!---
 neteodorochavez/neteodorochavez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
