@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @neteodorochavez
 - 👀 I’m interested in applying data science to the fields of medicine, education, and/or esports.  
-- 🌱 I’m currently learning data science at the University of San Francisco. 
+- 🌱 I’m currently learning data science at the University of San Francisco.
+- 🌱 I'm currently working as on a Image Segmentation Project that leverages a Residual 3D UNet at University of California, San Francisco.  
 - 💞️ I’m looking to collaborate on data science projects. 
 - 📫 How to reach me ... Email: neteodorochavez@dons.usfca.edu
 
