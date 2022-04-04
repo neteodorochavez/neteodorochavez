@@ -23,7 +23,7 @@
 
 **Modeling: Linear Regression, Decision Trees, Random Forests, Naive Bayes**
 
-**Data Visualization: [EDA with Pandas]()**
+**Data Visualization: [EDA with Pandas](https://github.com/neteodorochavez/msds610-eda-pandas)**
 <!---
 neteodorochavez/neteodorochavez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
