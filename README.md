@@ -8,7 +8,7 @@
 
 
 ## Current Projects 
-**Image Segmentation using 3D UNet Architecture**
+**[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
 
 ## Past Projects 
 **Recommendation Engine** 
