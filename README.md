@@ -11,6 +11,10 @@
 **[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
 
 ## Past Projects 
+**Implicit Rating Predictor** 
+
+**NBME - Score Clinical Patient Notes**
+
 **Recommendation Engine** 
 
 **Twitter Sentiment Analysis** 
