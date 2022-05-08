@@ -10,10 +10,18 @@
 ## Current Projects 
 **[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
 
+**Web Application for Realtime Animal Detection & Classification**
+
+**User Churn Prediction**
+
+**Video Game Tournament Winner Predictor**
+
 ## Past Projects 
 **Implicit Rating Predictor** 
 
 **NBME - Score Clinical Patient Notes**
+
+**Market Basket Analysis** 
 
 **Recommendation Engine** 
 
