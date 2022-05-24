@@ -12,8 +12,6 @@
 
 **Web Application for Realtime Animal Detection & Classification**
 
-**User Churn Prediction**
-
 **Video Game Tournament Winner Predictor**
 
 ## Past Projects 
