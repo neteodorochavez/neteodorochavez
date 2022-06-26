@@ -8,13 +8,15 @@
 
 
 ## Current Projects 
-**[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
-
-**Web Application for Realtime Animal Detection & Classification**
+**[GANs for Speech Emotion Recognition/Translation](https://github.com/neteodorochavez/GANs-for-Speech-Emotion-Recognition-and-Translation)**
 
 **Video Game Tournament Winner Predictor**
 
 ## Past Projects 
+**Web Application for Realtime Animal Detection & Classification**
+
+**[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
+
 **Implicit Rating Predictor** 
 
 **NBME - Score Clinical Patient Notes**
