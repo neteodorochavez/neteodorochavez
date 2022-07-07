@@ -11,7 +11,7 @@
 ## Past Projects 
 **[GANs for Speech Emotion Recognition/Translation](https://github.com/neteodorochavez/GANs-for-Speech-Emotion-Recognition-and-Translation)**
 
-**Web Application for Realtime Animal Detection & Classification**
+**[Web Application for Realtime Animal Detection & Classification**](https://github.com/USF-msds-603-2022/2022-product-analytics-group-project-group2)
 
 **[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
 
