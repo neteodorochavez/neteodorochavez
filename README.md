@@ -8,11 +8,12 @@
 
 
 ## Current Projects 
-**[GANs for Speech Emotion Recognition/Translation](https://github.com/neteodorochavez/GANs-for-Speech-Emotion-Recognition-and-Translation)**
 
 **Video Game Tournament Winner Predictor**
 
 ## Past Projects 
+**[GANs for Speech Emotion Recognition/Translation](https://github.com/neteodorochavez/GANs-for-Speech-Emotion-Recognition-and-Translation)**
+
 **Web Application for Realtime Animal Detection & Classification**
 
 **[Image Segmentation using 3D UNet Architecture](https://github.com/neteodorochavez/ResidualUNet-BrainMets)**
